@@ -6,3 +6,4 @@ flask
 requests
 matplotlib
 scikit-learn
+python-dotenv
